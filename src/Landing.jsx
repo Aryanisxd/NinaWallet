@@ -11,14 +11,14 @@ function Landing() {
         <div className="header">
           <div className="logo-section">
             <div className="logo-icon">⬢</div>
-            <span className="logo-text">Kosh</span>
+            <span className="logo-text">Nina</span>
             <span className="version-badge">v1.3</span>
           </div>
         </div>
 
         {/* Main content */}
         <div className="main-content">
-          <h1 className="main-title">Kosh supports multiple blockchains</h1>
+          <h1 className="main-title">Nina supports multiple blockchains</h1>
           <p className="subtitle">Choose a blockchain to get started.</p>
           
           <div className="blockchain-buttons">
