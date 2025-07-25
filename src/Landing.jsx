@@ -12,7 +12,7 @@ function Landing() {
           <div className="logo-section">
             <div className="logo-icon">⬢</div>
             <span className="logo-text">Nina</span>
-            <span className="version-badge">v1.3</span>
+            <span className="version-badge">v1.2</span>
           </div>
         </div>
 
